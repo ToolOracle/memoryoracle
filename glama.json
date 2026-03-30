@@ -1,1 +1,14 @@
-{"name": "MemoryOracle", "description": "Persistent long-term memory for AI agents \u2014 store, query, update, forget. FTS5 BM25 search, session summaries, Trust Layer cross-reference, GDPR-compliant", "category": "ai", "tags": ["memory", "rag", "persistent", "ai-agents", "long-term-memory", "fts5", "gdpr"], "tools": 10, "transport": "streamable-http", "endpoint": "https://mcp.feedoracle.io/memory/mcp/"}
+{
+  "name": "MemoryOracle",
+  "description": "Persistent Long-Term Memory for AI Agents \u2014 store, recall, search, forget across sessions via MCP",
+  "repository": "https://github.com/ToolOracle/memoryoracle",
+  "endpoint": "https://tooloracle.io/memory/mcp/",
+  "tools": 10,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": [
+    "agent-memory",
+    "mcp",
+    "ai-agent"
+  ]
+}
