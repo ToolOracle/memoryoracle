@@ -1,0 +1,5 @@
+name: MemoryOracle
+description: Persistent agent memory — 10 tools
+endpoint: https://tooloracle.io/memory/mcp/
+transport: streamable-http
+license: MIT
